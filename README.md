@@ -7,7 +7,9 @@
 🌱 Atualmente, meu maior foco está no Desenvolvimento Web, mas estou aberta a aprender sempre mais sobre diferentes áreas.
 
 📂 Aqui no meu perfil, compartilho meus projetos, estudos e experiências. Se você quiser trocar ideias ou colaborar, será um prazer!
+
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 👋 Hi there! I'm Milene, a student passionate about technology and programming. Right now, I'm diving into Systems Analysis and Development.
 
 💻 Lately, I've been focusing on learning more about MySQL, JavaScript, Python, and PHP. I'm always looking for ways to improve my skills and explore new tools.
